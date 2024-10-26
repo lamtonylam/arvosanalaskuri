@@ -11,7 +11,7 @@ Grade is calulcated based on:
 -   Your points
 
 Linear calculus:  
-$ \text{grade} = 1 + (5 - 1) \times \frac{(\text{Your points} - \text{Points to get 1})}{(\text{Points to get 5} - \text{Points to get 1})}$
+$\text{grade} = 1 + (5 - 1) \times \frac{(\text{Your points} - \text{Points to get 1})}{(\text{Points to get 5} - \text{Points to get 1})}$
 
 ## Installation
 
