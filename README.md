@@ -13,6 +13,10 @@ Grade is calulcated based on:
 Linear calculus:  
 $\text{grade} = 1 + (5 - 1) \times \frac{(\text{Your points} - \text{Points to get 1})}{(\text{Points to get 5} - \text{Points to get 1})}$
 
+## Usage on the web
+
+https://einesruoka.pyscriptapps.com/arvosanalaskuri
+
 ## Installation
 
 To install the dependencies, use [Poetry](https://python-poetry.org/):
