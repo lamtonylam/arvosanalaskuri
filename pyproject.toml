@@ -6,6 +6,8 @@ authors = ["Tony Lam <tony.lam@iki.fi>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+flask = "^3.0.0"
+gunicorn = "^23.0.0"
 
 
 [build-system]
